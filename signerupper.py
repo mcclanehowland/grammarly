@@ -13,6 +13,8 @@ import time
 
 grammarly_install_link = "https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen"
 referral_link = "http://gram.ly/zpWz"
+#nicks
+#referral_link = "http://gram.ly/ztGp"
 number_of_weeks = 50
 
 ##load the grammarly extension
